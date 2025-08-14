@@ -1,6 +1,6 @@
 # Equivariant Polynomial Functional Networks
 
-[![Conference](https://img.shields.io/badge/ICLR-2025-blue)](https://iclr.cc/Conferences/2025)
+[![Conference](https://img.shields.io/badge/ICML-2025-blue)](https://icml.cc/Conferences/2025)
 
 Official implementation of the paper "Equivariant Polynomial Functional Networks" (ICML 2025).
 
